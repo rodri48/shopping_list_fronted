@@ -2,9 +2,9 @@
 
 
 ### Project Explanation
-This is a CRUD APP.
+This is a MERN/CRUD APP.
 A supermarket list that allows you to edit, add and delete information in real time.
-This application is connected in the front-end with the server and the database.
+This application connects the front-end with the server and the database, and works in real time.
 
 
 ### Technologies
