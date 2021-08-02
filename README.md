@@ -17,7 +17,7 @@ This application connects the front-end with the server and the database, and wo
 
 *Node.js
 
-*Mongo DB
+*MongoDB
 
 *React-Router-Dom
 
